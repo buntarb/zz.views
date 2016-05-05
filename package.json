@@ -1,6 +1,6 @@
 {
 	"name": "zz.views",
-	"version": "20160505.0.0",
+	"version": "20160505.0.1",
 	"description": "Views module for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -11,6 +11,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/buntarb/zz.views.git"
+	},
+	"publishConfig": {
+		"registry": "http://registry.npmjs.org/"
 	},
 	"dependencies": {
 
