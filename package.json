@@ -1,6 +1,6 @@
 {
 	"name": "zz.views",
-	"version": "20160920.0.0",
+	"version": "20160920.0.1",
 	"description": "Views module for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -23,6 +23,7 @@
 	"dependencies": {
 
 	    "imazzine-developer-kit": "",
-		"zz.environment": ""
+		"zz.environment": "",
+		"zz.i18n": ""
 	}
 }
