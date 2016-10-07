@@ -30,3 +30,7 @@ PATH:
 
   # Stylesheets (.gss) compiled files folder
   CSS: '_css'
+
+COMPILATION:
+
+  LOCALE: 'en'
