@@ -24,6 +24,7 @@
 
 	    "imazzine-developer-kit": "",
 		"zz.environment": "",
-		"zz.i18n": ""
+		"zz.i18n": "",
+        "zz.tests": ""
 	}
 }
